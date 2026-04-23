@@ -17,7 +17,7 @@ Layer organization, artboard management, and background tasks impacting performa
 ---
 
 ## Preview
-![Adobe Illustrator Productivity Suite vector workspace concept](https://i.ytimg.com/vi/kewje4jS934/maxresdefault.jpg)
+![Adobe Illustrator Productivity Suite vector workspace concept]([https://i.ytimg.com/vi/kewje4jS934/maxresdefault.jpg](https://i.ytimg.com/vi/J4-xK0aralc/maxresdefault.jpg))
 
 ---
 
